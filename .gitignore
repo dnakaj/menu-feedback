@@ -1,0 +1,21 @@
+# Mac
+.DS_Store
+
+# Intellij
+**/*.iml
+**/.idea/
+.idea/**
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+/out/
+
+# Maven
+/target/
+**/target/
+release.properties
+buildNumber.properties
+.mvn/timing.properties
+
+# Java
+*.jar
